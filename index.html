@@ -119,7 +119,7 @@
             margin: 5px;
             padding: 10px 0;
             text-align: center;
-            width:50px;
+            width:60px;
         }
         .mask {
             -webkit-filter:blur(5px);
@@ -142,7 +142,6 @@
         }
 
 
-        /* 美化部门选择框 */
         select {
             appearance: none;
             -webkit-appearance: none;
@@ -173,16 +172,16 @@
             margin-right: 10px;
         }
 
-        .select-container::after {
+        /* .select-container::after {
             content: '▼';
             font-size: 12px;
             color: white;
             position: absolute;
             top: 50%;
-            right: 15px;
+            right: 11px;
             transform: translateY(-50%);
             pointer-events: none;
-        }
+        } */
     </style>
 </head>
 <body>
@@ -200,8 +199,7 @@
         </select>
     </div>
     
-    <button v-for="value in btns" @click="onClick(value)" class="pure-button" :class="{ 'button-error': selected == value }">{{value}}</button>
-    <button class="pure-button" @click="toggle" :class="{'button-secondary': !running, 'button-success': running}">{{running ? '停!' : '开始'}}</button>
+    <!-- <button v-for="value in btns" @click="onClick(value)" class="pure-button" :class="{ 'button-error': selected == value }">{{value}}</button> -->
     <button class="pure-button button-warning" @click="reset">重置</button>
 </div>
 <script type="text/javascript" src="js/zepto.js"></script>
@@ -264,8 +262,8 @@
             data: {
                 selected: '准备',
                 running: false,
-                selectedDepartment: '全部',
-                departments: ['全部', '马尾馆', '紫阳馆', '国泰馆篮球', '国泰馆跆拳道', '侨雄馆', '闽发馆', '屏东馆'],
+                selectedDepartment: '所有人',
+                departments: ['所有人', '马尾馆', '紫阳馆', '国泰馆', '跆拳道', '侨雄馆', '闽发馆', '屏东馆'],
                 btns: ['准备'],
                 originalMemberList: member
             },
@@ -293,7 +291,6 @@
                 toggle: function () {
                     if (this.running) {
                         TagCanvas.SetSpeed('myCanvas', speed());
-                        // var ret = lottery(this.selected);
                         var ret = lottery(1);
                         if (ret.length === 0) {
                             $('#result').css('display', 'block').html('<span>已抽完</span>');
@@ -313,13 +310,35 @@
                     this.running = !this.running;
                 },
                 updateMemberList: function () {
-                    if (this.selectedDepartment === '全部') {
+                    if (this.selectedDepartment === '所有人') {
                         member = this.originalMemberList;
                     } else {
                         member = this.originalMemberList.filter(item => item.department === this.selectedDepartment);
                     }
                     canvas.innerHTML = createHTML();
                     TagCanvas.Reload('myCanvas');
+                }
+            }
+        });
+
+        var flag = false;
+
+        document.addEventListener('keydown', function (event) {
+
+            if (event.code === 'Space') {
+                event.preventDefault();
+                var vueInstance = document.getElementById('tools').__vue__;
+                if (flag) {
+                    vueInstance.onClick("准备");
+                    flag = false;
+                }
+                else  {
+                    if (!vueInstance.running) {
+                        vueInstance.toggle();
+                    } else {
+                        vueInstance.toggle();
+                        flag = true;
+                    }
                 }
             }
         });

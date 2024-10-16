@@ -9,11 +9,11 @@ var member = [
   },
   {
     name: "李尚阳",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘夕瑶",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈子舒",
@@ -37,11 +37,11 @@ var member = [
   },
   {
     name: "林斯瀚",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘夕玥",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张晨峰",
@@ -65,11 +65,11 @@ var member = [
   },
   {
     name: "孙竟峰",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄敬萱",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "朱卓勋",
@@ -93,11 +93,11 @@ var member = [
   },
   {
     name: "黄振宸",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "邱奕德",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "孙羽良",
@@ -121,11 +121,11 @@ var member = [
   },
   {
     name: "林治宏",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "周含萱",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "庄涵宇",
@@ -149,11 +149,11 @@ var member = [
   },
   {
     name: "黄郑坤",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "李景尧",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈凯杰",
@@ -177,11 +177,11 @@ var member = [
   },
   {
     name: "陈洛羽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "王予嫣",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "程之恒",
@@ -205,11 +205,11 @@ var member = [
   },
   {
     name: "唐锴杰",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "谢瑾仪",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "柯瑞宸",
@@ -233,11 +233,11 @@ var member = [
   },
   {
     name: "张骏添",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄杰睿",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张浩洋",
@@ -261,11 +261,11 @@ var member = [
   },
   {
     name: "李和兴",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "赖铖楠",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "姚言蹊",
@@ -289,11 +289,11 @@ var member = [
   },
   {
     name: "江天月",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "康峻琪",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张自嘉",
@@ -317,11 +317,11 @@ var member = [
   },
   {
     name: "林晨轩",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "李墨凌",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "叶佳恒",
@@ -345,11 +345,11 @@ var member = [
   },
   {
     name: "谢鋆霄",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "李泽凯",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "倪希禾",
@@ -373,11 +373,11 @@ var member = [
   },
   {
     name: "王嘉乐",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林子壹",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林诣然",
@@ -401,11 +401,11 @@ var member = [
   },
   {
     name: "林奕轩",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "吴烜宇",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张银河",
@@ -429,11 +429,11 @@ var member = [
   },
   {
     name: "姜浚喆",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "潘屹成",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "潘瑞轩",
@@ -457,11 +457,11 @@ var member = [
   },
   {
     name: "郑铭宇",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈泽谦",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "李勤骐",
@@ -485,11 +485,11 @@ var member = [
   },
   {
     name: "唐宇泽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈鸣谦",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林逸洋",
@@ -513,11 +513,11 @@ var member = [
   },
   {
     name: "李文彬",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "游哲霖",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈柏润",
@@ -541,11 +541,11 @@ var member = [
   },
   {
     name: "郑睿昊",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "王翊铖",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "史浩然",
@@ -569,11 +569,11 @@ var member = [
   },
   {
     name: "陈奕辰",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄舒浚",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张新迪",
@@ -597,11 +597,11 @@ var member = [
   },
   {
     name: "杨定衡",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "高夏靖",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林熠阳",
@@ -625,11 +625,11 @@ var member = [
   },
   {
     name: "唐奕岑",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林弘毅",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "王陈泽",
@@ -653,11 +653,11 @@ var member = [
   },
   {
     name: "林潜锐",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "杨皓轩",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴清墨",
@@ -681,11 +681,11 @@ var member = [
   },
   {
     name: "郑冠霖",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄敬德",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "杜浩宇",
@@ -709,11 +709,11 @@ var member = [
   },
   {
     name: "方妙尹",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "杨吴熙",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴沛宸",
@@ -737,11 +737,11 @@ var member = [
   },
   {
     name: "李澍祺",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈禹骁",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "赵宸浩",
@@ -765,11 +765,11 @@ var member = [
   },
   {
     name: "江柏言",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林斯瀚",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "张涵宇",
@@ -793,11 +793,11 @@ var member = [
   },
   {
     name: "黄若飞",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "许斯然",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林亦阳",
@@ -821,11 +821,11 @@ var member = [
   },
   {
     name: "何易辰",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈彦榷",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: " 叶琪",
@@ -849,11 +849,11 @@ var member = [
   },
   {
     name: "侯欣妍",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "马凯晴",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "谢佳航",
@@ -877,11 +877,11 @@ var member = [
   },
   {
     name: "江尚泽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘轩宇",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "李泽城",
@@ -905,11 +905,11 @@ var member = [
   },
   {
     name: "钟辅澄",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "江林桐",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "李灵城",
@@ -933,11 +933,11 @@ var member = [
   },
   {
     name: "王嘉毅",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "郭柏闻",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林友泽",
@@ -961,11 +961,11 @@ var member = [
   },
   {
     name: "许刘涛",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "薛正元",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈泓锦",
@@ -989,11 +989,11 @@ var member = [
   },
   {
     name: "林绮雯",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "江沐辰",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈凯",
@@ -1017,11 +1017,11 @@ var member = [
   },
   {
     name: "王阳光",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "正田锦翔",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "孙翊航",
@@ -1045,11 +1045,11 @@ var member = [
   },
   {
     name: "宋天锐",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "薛博文",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴嘉宝",
@@ -1073,11 +1073,11 @@ var member = [
   },
   {
     name: "王元初",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "尹小嘉",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "阿卜杜拉·阿布都热依木江",
@@ -1101,11 +1101,11 @@ var member = [
   },
   {
     name: "黄之霖",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "叶梁超",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "刘霄恒",
@@ -1129,11 +1129,11 @@ var member = [
   },
   {
     name: "叶睿泽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "方熠辰",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "严振硕",
@@ -1157,11 +1157,11 @@ var member = [
   },
   {
     name: "郑杰鸣",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林涵",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "李仁德",
@@ -1185,11 +1185,11 @@ var member = [
   },
   {
     name: "王子朗",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "郭婧雯",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "黄泽凯",
@@ -1213,11 +1213,11 @@ var member = [
   },
   {
     name: "郑王淮",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "何凡",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "方昱硕",
@@ -1241,11 +1241,11 @@ var member = [
   },
   {
     name: "唐震宇",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄诗佳",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "叶振远",
@@ -1269,11 +1269,11 @@ var member = [
   },
   {
     name: "余宁柏",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "王琪",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "曾志城",
@@ -1297,11 +1297,11 @@ var member = [
   },
   {
     name: "郑锴瑞",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林可鑫",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "黄林",
@@ -1325,11 +1325,11 @@ var member = [
   },
   {
     name: "倪逸航",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "袁辰逸",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴梓航",
@@ -1353,11 +1353,11 @@ var member = [
   },
   {
     name: "马鸣泽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄辛涛",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "郑皓谦",
@@ -1381,11 +1381,11 @@ var member = [
   },
   {
     name: "林秦羽",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "宋闫妍",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林尊祺",
@@ -1409,11 +1409,11 @@ var member = [
   },
   {
     name: "谢锦城",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘昀骁",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴弘皓",
@@ -1437,11 +1437,11 @@ var member = [
   },
   {
     name: "吴丞骏",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "肖黄熙",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "苍润泽",
@@ -1465,11 +1465,11 @@ var member = [
   },
   {
     name: "陈润恒",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘子涵",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "朱仁杰",
@@ -1493,11 +1493,11 @@ var member = [
   },
   {
     name: "罗鸿瑞",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "申子墨",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "卢祎",
@@ -1521,11 +1521,11 @@ var member = [
   },
   {
     name: "简仲璟",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林祐仪",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴泽贤",
@@ -1549,11 +1549,11 @@ var member = [
   },
   {
     name: "郑潇然",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈思静",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "欧晟杰",
@@ -1577,11 +1577,11 @@ var member = [
   },
   {
     name: "张恩宇",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "张舒涵",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "曲浩天",
@@ -1605,11 +1605,11 @@ var member = [
   },
   {
     name: "林永烨",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "帅隽琪",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴国昊",
@@ -1633,11 +1633,11 @@ var member = [
   },
   {
     name: "陈鸿毅",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "潘俊辰",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "马超",
@@ -1661,11 +1661,11 @@ var member = [
   },
   {
     name: "李子瑞",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "吴沐汐",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林知予",
@@ -1689,11 +1689,11 @@ var member = [
   },
   {
     name: "陈宇翀",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林予惜",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "王域嘉",
@@ -1717,11 +1717,11 @@ var member = [
   },
   {
     name: "陈靖丰",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "张恒岳",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "董宥君",
@@ -1745,11 +1745,11 @@ var member = [
   },
   {
     name: "朱俊谦",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄郑坤",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "吴沐融",
@@ -1773,11 +1773,11 @@ var member = [
   },
   {
     name: "张博文",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "郑楷",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "胡予挚",
@@ -1801,11 +1801,11 @@ var member = [
   },
   {
     name: "蔡佳钧",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "沈诗怡",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "沈彬",
@@ -1829,11 +1829,11 @@ var member = [
   },
   {
     name: "林帅行",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "石旑忱",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林德麟",
@@ -1857,11 +1857,11 @@ var member = [
   },
   {
     name: "陈知洋",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "庄牧玥",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "林胤铮",
@@ -1885,11 +1885,11 @@ var member = [
   },
   {
     name: "黄小奕",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "余得逸",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "刘夏赫",
@@ -1913,11 +1913,11 @@ var member = [
   },
   {
     name: "林奕添",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈予曈",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈昱皓",
@@ -1941,11 +1941,11 @@ var member = [
   },
   {
     name: "阮邦禹",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "庄炘树",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈俊灏",
@@ -1969,11 +1969,11 @@ var member = [
   },
   {
     name: "阮邦瑞",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林奕宏",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "童俊霖",
@@ -1997,11 +1997,11 @@ var member = [
   },
   {
     name: "杨宇锐",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "郑子希",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "冯品皓",
@@ -2021,11 +2021,11 @@ var member = [
   },
   {
     name: "邱思源",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘宁皓",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "陈泓屹",
@@ -2045,11 +2045,11 @@ var member = [
   },
   {
     name: "熊小渔",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "刘宁双",
-    department: "国泰馆跆拳道",
+    department: "跆拳道",
   },
   {
     name: "翁鸿祥",
@@ -2069,7 +2069,7 @@ var member = [
   },
   {
     name: "陈泽奕",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "王迪麦",
@@ -2089,7 +2089,7 @@ var member = [
   },
   {
     name: "冯晨轩",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "高天衢",
@@ -2109,7 +2109,7 @@ var member = [
   },
   {
     name: "黄正辉",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陆俣晨",
@@ -2129,7 +2129,7 @@ var member = [
   },
   {
     name: "吕鸿煊",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "谢星辰",
@@ -2145,7 +2145,7 @@ var member = [
   },
   {
     name: "林恒方",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "何宇骏",
@@ -2161,7 +2161,7 @@ var member = [
   },
   {
     name: "欧子雅",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林彦汐",
@@ -2177,7 +2177,7 @@ var member = [
   },
   {
     name: "黄梓轩",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "唐千祐",
@@ -2189,7 +2189,7 @@ var member = [
   },
   {
     name: "黄梓斌",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "骆凯文",
@@ -2201,7 +2201,7 @@ var member = [
   },
   {
     name: "吕泽安",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "黄恺森",
@@ -2213,7 +2213,7 @@ var member = [
   },
   {
     name: "许君竹",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "张振航",
@@ -2225,7 +2225,7 @@ var member = [
   },
   {
     name: "罗天翊",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "陈子熠",
@@ -2237,7 +2237,7 @@ var member = [
   },
   {
     name: "罗羽彤",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "柯羽展",
@@ -2249,7 +2249,7 @@ var member = [
   },
   {
     name: "林君合",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "曾馨源",
@@ -2261,7 +2261,7 @@ var member = [
   },
   {
     name: "陈致铭",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "钟飞宇",
@@ -2273,7 +2273,7 @@ var member = [
   },
   {
     name: "黄湛成",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "钟钦宇",
@@ -2285,7 +2285,7 @@ var member = [
   },
   {
     name: "吴翊炜",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "杨炎昊",
@@ -2297,7 +2297,7 @@ var member = [
   },
   {
     name: "吴弘皓",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "钟岩书",
@@ -2309,7 +2309,7 @@ var member = [
   },
   {
     name: "朱子宸",
-    department: "国泰馆篮球",
+    department: "国泰馆",
   },
   {
     name: "林恒锐",
