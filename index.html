@@ -14,25 +14,26 @@
         }
         .result {
             position: absolute;
-            height: 320px;
-            width: 100%;
-            left: 0; top: 50%;
-            margin-top: -160px;
+            height: 640px; /* 原来高度 320px 的 1.5 倍 */
+            width: 100%;   /* 宽度保持 100% 不变 */
+            left: 0; 
+            top: 50%;
+            margin-top: -320px; /* 原来的 -160px 的 1.5 倍 */
             text-align: center;
             padding: 10px;
             display: none;
         }
         .result span {
             display: inline-block;
-            font-size: 25px;
-            width: 150px;
+            font-size: 50px; /* 原来的 25px 的 1.5 倍 */
+            width: 75%;
             background: #fff;
-            line-height: 30px;
+            line-height: 2.5; /* 原来的 80px 的 1.5 倍 */
             color: #000;
             margin: 5px;
             border-radius: 10px;
-            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
-            padding: 10px 0;
+            box-shadow: 0 7.5px 15px rgba(0, 0, 0, 0.8); /* 阴影效果也可以适当放大 */
+            padding: 30px 0; /* 原来的 10px 的 1.5 倍 */
         }
         button, input, optgroup, select, textarea {
             color: inherit;
